@@ -30,9 +30,9 @@ Follow me on X(Twitter)
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
 ### Best frameworks and main libraries for Robotics:
-| Ros 2 | Gazebo | Navigation2 | Pcl |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" title="ros2" alt="ros2" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" title="gazebo" alt="gazebo" width="55" height="55"/>| nav2 | pcl |
+| Ros 2 | Gazebo | Navigation2 | Pcl | Ompl |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" title="ros2" alt="ros2" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" title="gazebo" alt="gazebo" width="55" height="55"/>| nav2 | pcl | ompl |
 
 ### My Tools for Robot Development:
 | CubeIDE | Blender | Unity | WireShark | TeraTerm | Conda | 
