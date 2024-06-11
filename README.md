@@ -7,11 +7,7 @@ Currently, I am working on developing an autonomous robot library for NHK Studen
 ### Social media: 📡    
 Follow me on X(Twitter)
 
-[![Telegram Badge](https://img.shields.io/twitter/follow/:n622&logoColor=white)](https://x.com/sawa__622)
-
-### Working on: 🚀
-
-- 
+[![X](https://img.shields.io/twitter/follow/:n622&logoColor=white)](https://x.com/sawa__622)
 
 ## Languages and Tools 
 <div>
