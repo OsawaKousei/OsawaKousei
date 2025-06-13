@@ -13,11 +13,19 @@ Follow me on X(Twitter)
 <div>
 
 ### Languages:
-| Python3 | C | C++ | C# |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="55" height="55"/> |  
+| Python3 | C | C++ | C# | typescript |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="55" height="55"/> |
 
-  
+### Best frameworks and main libraries for web app development:
+| next.js | nest.js | fastapi |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs"  alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs"  alt="nestjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi"  alt="fastapi" width="55" height="55"/> |
+
+### Best frameworks and main libraries for desktop and app development:
+| electron | prism |
+|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron"  alt="electron" width="55" height="55"/> | <img src="https://github.com/PrismLibrary/Prism/blob/master/images/prism-logo.png" title="prism"  alt="prism" width="55" height="55"/>
 
 ### Best frameworks and main libraries for Python3:
 
@@ -26,6 +34,7 @@ Follow me on X(Twitter)
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
 ### Best frameworks and main libraries for Robotics:
+
 | Ros 2 | Gazebo | Navigation2 | Pcl | Ompl |
 |----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" title="ros2" alt="ros2" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" title="gazebo" alt="gazebo" width="55" height="55"/>| nav2 | pcl | ompl |
@@ -34,6 +43,7 @@ Follow me on X(Twitter)
 | CubeIDE | Blender | Unity | WireShark | TeraTerm | Conda | 
 |----------|----------|----------|----------|----------|----------|
 | CubeIDE | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="55" height="55"/> | WireShark | TeraTerm | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|
+
 ### Environments:
 
 | Git | Docker |
