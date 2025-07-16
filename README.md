@@ -42,15 +42,15 @@ Follow me on X(Twitter)
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" title="ros2" alt="ros2" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" title="gazebo" alt="gazebo" width="55" height="55"/>| nav2 | pcl | ompl |
 
 ### My Tools for Robot Development:
-| CubeIDE | Blender | Unity | WireShark | TeraTerm |
-|----------|----------|----------|----------|----------|
-| CubeIDE | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="55" height="55"/> | WireShark | TeraTerm |
+| CubeIDE | Blender | Unity |
+|----------|----------|----------|
+| CubeIDE | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="55" height="55"/> |
 
 ### Infrastructure:
 
-| Git | Docker |
-|----------|----------|
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|
+| Git | Docker | AWS |
+|----------|----------|----------|
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/aws.svg" title="AWS" alt="AWS" width="55" height="55" /> |
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=OsawaKousei&show_icons=true&theme=vision-friendly-dark">
