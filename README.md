@@ -1,7 +1,9 @@
 ### About Me:    
-I am a passionate college sophomore skilled in development in ROS2 working on autonomous control of competition robots and related localization, path optimization and object detection. I enjoy working with simulation-based development and exploring the realm of fascinating fully automated robots. I am also experimenting with object detection using deep learning and policy optimization using reinforcement learning(RL), and is learning the necessary machine learning principles.
+I am a passionate third-year university student with a background in both robotics and AI. My experience includes implementing embedded firmware for motor control, developing simulation-based autonomous robots, and exploring robot control through AI techniques like imitation learning.
 
-Currently, I am working on developing an autonomous robot library for NHK Student Robot Contest 2025 and am actively working on self-position estimation by integrating IMU odometry and lidar data.
+Previously, I focused on autonomous control for competition robots, working with ROS2 on localization, path optimization, and object detection. I have also experimented with deep learning for object detection and reinforcement learning (RL) for policy optimization.
+
+Recently, I've become fascinated with deploying the AI backends I've developed into user-friendly applications that anyone can use. I am now actively engaged in building infrastructure using cloud services like AWS and developing applications with modern frameworks such as Next.js and FastAPI.
       
    
 ### Social media: 📡    
