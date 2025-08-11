@@ -4,7 +4,9 @@ I am a passionate third-year university student with a background in both roboti
 Previously, I focused on autonomous control for competition robots, working with ROS2 on localization, path optimization, and object detection. I have also experimented with deep learning for object detection and reinforcement learning (RL) for policy optimization.
 
 Recently, I've become fascinated with deploying the AI backends I've developed into user-friendly applications that anyone can use. I am now actively engaged in building infrastructure using cloud services like AWS and developing applications with modern frameworks such as Next.js and FastAPI.
-      
+
+### Portfolio:
+[portfolio](https://osawakousei.github.io/)
    
 ### Social media: 📡    
 Follow me on X(Twitter)
