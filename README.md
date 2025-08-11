@@ -11,7 +11,7 @@ Recently, I've become fascinated with deploying the AI backends I've developed i
 ### Social media: 📡    
 Follow me on X(Twitter)
 
-[![X](https://img.shields.io/twitter/follow/:n622&logoColor=white)](https://x.com/sawa__622)
+[![X](https://img.shields.io/twitter/follow/:n622)](https://x.com/sawa__622)
 
 ## Languages and Tools 
 <div>
