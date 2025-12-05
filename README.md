@@ -55,8 +55,8 @@ Follow me on X(Twitter)
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/aws.svg" title="AWS" alt="AWS" width="55" height="55" /> |
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=OsawaKousei&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsawaKousei&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats-liard-nine-93.vercel.app/api?username=OsawaKousei&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats-liard-nine-93.vercel.app/api/top-langs/?username=OsawaKousei&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
