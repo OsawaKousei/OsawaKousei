@@ -22,15 +22,14 @@ Follow me on X(Twitter)
 |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="55" height="55"/> |
 
 ### Best frameworks and main libraries for web app development:
-| next.js | nest.js | fastapi |
+| next.js | React | fastapi |
 |----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs"  alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs"  alt="nestjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi"  alt="fastapi" width="55" height="55"/> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs"  alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi"  alt="fastapi" width="55" height="55"/> |
 
 ### Best frameworks and main libraries for desktop app development:
-| electron | prism |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron"  alt="electron" width="55" height="55"/> | <img src="https://github.com/PrismLibrary/Prism/blob/master/images/prism-logo.png" title="prism"  alt="prism" width="55" height="55"/>
-
+| electron |
+|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron"  alt="electron" width="55" height="55"/>
 ### Best frameworks and main libraries for Python3:
 
 | Pytorch | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
@@ -50,9 +49,9 @@ Follow me on X(Twitter)
 
 ### Infrastructure:
 
-| Git | Docker | AWS |
-|----------|----------|----------|
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/aws.svg" title="AWS" alt="AWS" width="55" height="55" /> |
+| Git | Docker | AWS | Terraform |
+|----------|----------|----------|----------|
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/aws.svg" title="AWS" alt="AWS" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="terraform" width="55" height="55"/>
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats-liard-nine-93.vercel.app/api?username=OsawaKousei&show_icons=true&theme=vision-friendly-dark">
